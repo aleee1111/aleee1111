@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aleee1111
+- 👋 Hi, I’m @ale_pucci
 - 👀 I’m interested in sport and programming 😁
 - 🌱 I’m currently learning Bioinformatic 🔥
 - 💞️ I'm learning in C and Python ⏳
