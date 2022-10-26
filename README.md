@@ -2,7 +2,7 @@
 - 👀 I’m interested in sport and programming 😁
 - 🌱 I’m currently learning Bioinformatic 🔥
 - 💞️ I'm learning in C and Python ⏳
-- 📫 How to reach me : ig-> _ale11.11_
+- 📫 How to reach me : pucci.aless@gmal.com puccialessandro@virgilio.it
 
 <!---
 aleee1111/aleee1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
